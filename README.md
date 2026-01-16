@@ -1,26 +1,19 @@
-# BGIEM TechCon 2026 - Official Event Website
+# BGIEM TechCon 2026 - Official Website
 
-A professional, single-page landing page built for the **BGIEM TechCon 2026** conference. This project uses a clean architecture with **Internal CSS** for easy portability and fast rendering.
+Welcome to the official repository for the **BGIEM TechCon 2026** event. This is a single-page website designed for a technology and programming conference.
 
-## 🌟 Key Features
-* **Modern Design:** Uses a professional Blue and Dark Gray theme with smooth hover effects.
-* **Event Schedule:** A structured table listing sessions from 9:00 AM to 2:00 PM, including AI/ML and Cloud Computing.
-* **Speaker Profiles:** Highlights industry experts like Dr. Saurabh Sharma and Mr. Deepak Vishwakarma.
-* **Responsive Sections:** Includes dedicated areas for 'About', 'Schedule', 'Speakers', and a 'Contact Us' form.
+## 🚀 Overview
+BGIEM TechCon 2026 brings together leading minds in programming, tech, and innovation. This project is built using a clean architecture with **Internal CSS** for easy portability and fast rendering.
 
-## 🛠️ Technology Used
-* **HTML5:** For the core structure and content.
-* **Internal CSS3:** Custom styles defined within the `<style>` tag for a sleek UI without external files.
+## ✨ Features
+* **Modern UI:** Clean and responsive design using a professional Blue and Dark Gray theme.
+* **Event Schedule:** A detailed session table including Opening Keynote, AI/ML workshops, and Cloud Computing sessions.
+* **Speakers:** Profiles of industry experts like Dr. Saurabh Sharma and Mr. Deepak Vishwakarma.
+* **Contact Form:** Integrated user feedback section for inquiries.
 
-## 📅 Featured Sessions
-* **Opening Keynote:** BGIEM Coding Platform.
-* **AI & ML:** Understanding Artificial Intelligence by Mr. Deepak.
-* **Cloud Computing:** Future of Cloud by Mr. Rupesh.
+## 🛠️ Built With
+* **HTML5:** For core structure.
+* **CSS3:** Internal styling within the `<style>` tag.
 
-## 🚀 How to Run
-1. Download the `index.html` file.
-2. Open it in any modern web browser (Chrome, Firefox, Edge).
-3. No external CSS or JS files are required!
-
----
-*Created for the BGIEM Tech Community.*
+## 📸 Project Preview
+![BGIEM Event Screenshot](event.jpeg)
